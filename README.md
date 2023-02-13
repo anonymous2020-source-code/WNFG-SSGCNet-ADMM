@@ -33,5 +33,4 @@ Please take the following two steps.
 
 Step 1. Change the path in line 125 of main.py to the path of input data.
 
-Step 2. Run the command in your command council. 
-$ python main.py
+Step 2. Run the command in your command council. (For example python main.py)
